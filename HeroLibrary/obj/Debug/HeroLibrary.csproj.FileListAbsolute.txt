@@ -1,0 +1,12 @@
+D:\C#\SuperHeroAcademy\HeroLibrary\bin\Debug\HeroLibrary.dll
+D:\C#\SuperHeroAcademy\HeroLibrary\bin\Debug\HeroLibrary.pdb
+D:\C#\SuperHeroAcademy\HeroLibrary\obj\Debug\HeroLibrary.csprojAssemblyReference.cache
+D:\C#\SuperHeroAcademy\HeroLibrary\obj\Debug\HeroLibrary.csproj.CoreCompileInputs.cache
+D:\C#\SuperHeroAcademy\HeroLibrary\obj\Debug\HeroLibrary.dll
+D:\C#\SuperHeroAcademy\HeroLibrary\obj\Debug\HeroLibrary.pdb
+C:\Development\C#\SuperHeroAcademy\HeroLibrary\bin\Debug\HeroLibrary.dll
+C:\Development\C#\SuperHeroAcademy\HeroLibrary\bin\Debug\HeroLibrary.pdb
+C:\Development\C#\SuperHeroAcademy\HeroLibrary\obj\Debug\HeroLibrary.csprojAssemblyReference.cache
+C:\Development\C#\SuperHeroAcademy\HeroLibrary\obj\Debug\HeroLibrary.csproj.CoreCompileInputs.cache
+C:\Development\C#\SuperHeroAcademy\HeroLibrary\obj\Debug\HeroLibrary.dll
+C:\Development\C#\SuperHeroAcademy\HeroLibrary\obj\Debug\HeroLibrary.pdb
